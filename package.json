@@ -1,0 +1,26 @@
+{
+  "name": "momojhi",
+  "version": "1.0.2",
+  "description": "Momojhi for tea",
+  "main": "emojiril",
+  "scripts": {
+    "test": "emojiril"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekayzy/Momojhi.git"
+  },
+  "keywords": [
+    "tea",
+    "projects"
+  ],
+  "author": "ekayzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekayzy/Momojhi/issues"
+  },
+  "homepage": "https://github.com/Ekayzy/Momojhi#readme",
+  "dependencies": {
+    "momojhi": "^1.0.1"
+  }
+}
